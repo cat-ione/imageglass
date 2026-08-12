@@ -45,7 +45,7 @@
 
 ## 💝 Thanks to
 
-- [ione](https://github.com/cat-ione)
+- [cat-ione](https://github.com/cat-ione)
 
 &nbsp;
 
