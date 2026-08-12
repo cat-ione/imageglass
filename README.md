@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/DaNubCoding/imageglass/stargazers"><img src="https://img.shields.io/github/stars/DaNubCoding/imageglass?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/DaNubCoding/imageglass/issues"><img src="https://img.shields.io/github/issues/DaNubCoding/imageglass?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/DaNubCoding/imageglass/contributors"><img src="https://img.shields.io/github/contributors/DaNubCoding/imageglass?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/cat-ione/imageglass/stargazers"><img src="https://img.shields.io/github/stars/cat-ione/imageglass?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/cat-ione/imageglass/issues"><img src="https://img.shields.io/github/issues/cat-ione/imageglass?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/cat-ione/imageglass/contributors"><img src="https://img.shields.io/github/contributors/cat-ione/imageglass?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">

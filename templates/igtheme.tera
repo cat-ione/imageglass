@@ -14,8 +14,8 @@ whiskers:
   },
   "Info": {
     "Name": "Catppuccin {{flavor.name}} - {{accent | capitalize}}",
-    "Author": "DaNubCoding",
-    "Website": "https://github.com/DaNubCoding/image-glass",
+    "Author": "cat-ione",
+    "Website": "https://github.com/cat-ione/image-glass",
     "Description": "Catppuccin {{flavor.name}} base with {{accent | capitalize}} accent",
     "Version": "1.0"
   },
